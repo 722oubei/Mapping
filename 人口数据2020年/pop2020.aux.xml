@@ -1,0 +1,11 @@
+<PAMDataset>
+  <Metadata domain="OVERVIEWS">
+    <MDI key="OVERVIEW_FILE">C:\Users\32939\AppData\Local\ESRI\rasterproxies/000020_D__02_______07__________pop_______pop2020__________pop2020____pop2020.ovr</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>pop2020</Description>
+  </PAMRasterBand>
+</PAMDataset>
